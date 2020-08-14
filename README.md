@@ -4,12 +4,12 @@
 
 Need:
 
-Download [python](https://www.python.org/downloads/)
-Download [node.js](https://nodejs.org/en/download/)
+- Download [python](https://www.python.org/downloads/)
+- Download [node.js](https://nodejs.org/en/download/)
 
 Then launch **CMD** or open folder with your IDE and then type in terminal next:
 
-`npm i` - this command will download all requirements from package.json file.
+- `npm i` - this command will download all requirements from package.json file.
 
 To launch bot, you need setup config.json file in Settings folder.
 
