@@ -3,12 +3,12 @@
 **Works with Discord.js lib.**
 
 Need:
-[X] Download [python](https://www.python.org/downloads/)
-[X] Download [node.js](https://nodejs.org/en/download/)
+- [X] Download [python](https://www.python.org/downloads/)
+- [X] Download [node.js](https://nodejs.org/en/download/)
 
 Then launch **CMD** or open folder with your IDE and then type in terminal next:
 
-[X] npm i - this command will download all requirements from package.json file.
+- [X] npm i - this command will download all requirements from package.json file.
 
 To launch bot, you need setup config.json file in Settings folder.
 
