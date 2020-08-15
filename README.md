@@ -11,9 +11,9 @@ Then launch **CMD** or open folder with your IDE and then type in terminal next:
 
 - **`npm i`** - this command will download all requirements from package.json file.
 
-To launch bot, you need setup config.json file in Settings folder.
+To launch bot, you need setup `.env` file in main folder.
 
 - **`"How i get token for my bot?"`** - Token you can find on discord's developer portal site. [Guide](https://www.writebots.com/discord-bot-token/)
 - **`"What is prefix?"`** - Prefix used to call your bot's commands.
 
-**When download complete, and your `config.json` is done, just type in `node .` or `node _.js` to start the bot.**
+**When download complete, and your `.env` is done, just type in `node .` or `node _.js` to start the bot.**
