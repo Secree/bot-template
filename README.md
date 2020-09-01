@@ -9,3 +9,5 @@ When downloaded, type in terminal:
 Then find `config.json` in `settings` folder, and paste in field "TOKEN" your token from [Discord Dev. Portal](https://discord.com/developers/applications)
 
 When all done, type in terminal: `tsc` and then when "dist" folder successful created `node .` to launch bot.
+
+Also you need to setup version of typescript ^4 in your editor.
